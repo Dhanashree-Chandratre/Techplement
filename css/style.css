@@ -79,6 +79,7 @@
   
   #home {
     padding-top: 10%;
+    padding-left: 5%;
     min-height: 100vh;
     width: 100vw;
     background: linear-gradient(76.34deg, #FFFFFF 52.45%, rgba(196, 196, 196, 0) 52.49%), url(../images/back1.png) no-repeat;
